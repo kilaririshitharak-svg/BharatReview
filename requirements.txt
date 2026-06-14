@@ -1,0 +1,13 @@
+# BharatReview — Python Dependencies
+# Minimum version pins to ensure deployment stability on HuggingFace Spaces
+# and other fresh environments.
+
+streamlit>=1.32.0
+torch>=2.0.0
+transformers>=4.44.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+google-play-scraper>=1.2.7
+nltk>=3.8.0
+sentencepiece>=0.1.99
